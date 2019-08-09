@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "This is sub file"
+echo "This is updated sub module file"
